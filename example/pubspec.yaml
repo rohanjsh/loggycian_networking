@@ -1,0 +1,20 @@
+name: example
+description: A sample command-line application.
+version: 1.0.0
+publish_to: none
+
+environment:
+  sdk: ^3.7.0-123.0.dev
+
+# Add regular dependencies here.
+dependencies:
+  loggycian_networking: 
+    path: ../
+  dio: ^5.7.0
+  gql: ^1.0.0+1
+  graphql: ^5.1.3
+  http: ^1.2.2
+
+dev_dependencies:
+  lints: ^5.0.0
+  test: ^1.24.0
