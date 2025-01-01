@@ -1,7 +1,7 @@
 name: loggycian_networking
 description: pure dart network logger
-version: 0.1.0+2 
-repository: https://github.com/rohanjsh/logician_networking.git
+version: 0.1.0+3
+repository: https://github.com/rohanjsh/loggycian_networking.git
 
 environment:
   sdk: ^3.5.0
